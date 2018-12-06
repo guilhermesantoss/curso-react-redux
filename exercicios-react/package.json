@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "keywords": [],
-  "author": "",
+  "author": "Guilherme Lopes dos Santos",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.22.1",
